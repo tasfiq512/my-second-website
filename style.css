@@ -1,0 +1,148 @@
+body{
+    font-family: 'Tiro Tamil', serif;
+    margin: 0px;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+h1{
+    font-size: 50px;
+     margin:0;
+}
+.oranage-highlight {
+   color: rgb(248, 10, 121); 
+  
+}
+.width{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 50px;
+    text-align: justify;
+
+}
+.change{
+    margin-top: 120px;
+}
+.width img{
+   width: 80%; 
+}
+.banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.lnk-button{
+    display: block;
+    width: 115px;
+    height: 25px;
+    background-image: linear-gradient(45deg,rgb(236, 84, 160),tomato);
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(19, 15, 15);
+    font-weight: bold;
+    line-height: 30px;
+    text-decoration:none;
+}
+.img-size{
+    
+    width:80%;
+    margin-left: 120px;
+}
+.width-second{
+    
+    width: 30%;
+    float: left;
+    margin-left: 15%;
+    margin-right: 5%;
+    margin-top: 50px;
+    text-align: justify;
+    
+    
+}
+.lnk-button-se{
+    width: 115px;
+    height: 25px;
+    background-image: linear-gradient(45deg,rgb(236, 84, 160),tomato);
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: rgb(19, 15, 15);
+    font-weight: bold;
+    line-height: 30px;
+    text-decoration:none;
+   
+}
+.second-banner{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.larger{
+ margin: 10% 5%;
+   
+}
+
+.third-section{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 350px;
+    background-position: center; 
+} 
+.text-al{
+    text-align: center;
+    margin-top: 90px;
+}
+div.gallery {
+   
+    border: 1px solid rgb(236, 227, 227);
+    float: left;
+    width: 360px;
+    margin-top: 10px;
+    margin-left: 1%;
+  }
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }  
+
+.control-imgage{
+    margin-left: 10%;
+}
+.last-section{
+    text-align: center;
+    
+}
+.name-ceo{
+    margin-top: 60px;
+    margin-bottom: 0;
+    
+}
+.founder{
+    font-size: small;
+    margin-top: 5px;
+    color: rgb(151, 151, 151);
+
+}
+.email-info{
+    width: 350px;
+    height: 90px;
+    background-image: linear-gradient(45deg,rgb(216, 134, 101),rgb(255, 38, 0));
+    padding: 10px;
+    
+    border-radius: 7px;
+    margin-top: 40px;
+   
+    line-height: 20px;
+    margin-left: 38.5% ;
+}
+.last-section{
+    background-image:url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 350px;
+    background-position: center;
+}
+footer{
+    text-align: center;
+}
